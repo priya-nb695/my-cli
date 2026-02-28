@@ -1,0 +1,7 @@
+{
+    "name": "mycli",
+    "version": "1.0.0",
+    "bin" :{
+        "mycli" : "./index.js"
+    }
+}
